@@ -1,0 +1,11 @@
+plugins {
+    id 'com.android.application'
+}
+
+apply from : '../dependencies.gradle'
+
+android {
+}
+
+dependencies {
+}
